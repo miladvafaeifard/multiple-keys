@@ -1,0 +1,9 @@
+Host gitlab gitlab.com
+    HostName gitlab.com
+    IdentityFile ~/.ssh/sc_rsa
+    User miladvafaeifard
+
+Host github github.com
+    HostName github.com
+    IdentityFile ~/.ssh/personal_rsa
+    User miladvafaeifard
